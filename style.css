@@ -1,0 +1,45 @@
+*{
+    font-size: 50px;
+    margin: 0;
+    font-family: Poppins;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(13, 13, 13);
+    color: white;
+}
+
+label{
+    margin-top: 20px;
+}
+#textid{
+    font-size: 1em;
+    margin-top: 100px;
+}
+
+#inputid{
+    border: none;
+    margin: 30px auto;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 0.7em;
+    text-transform: uppercase;
+    background-color: white;
+}
+
+#submitid{
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 130px;
+    font-size: 0.5em;
+    background-color: pink;
+    color: rgb(255, 255, 255);
+    transition: 1s;
+}
+
+#submitid:hover{
+    cursor: pointer;
+    height: 50px;
+    width: 20%  ;
+    font-size: 0.4em;
+}
